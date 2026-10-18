@@ -107,7 +107,7 @@
           <mxGeometry height="40" width="30" x="245" y="125" as="geometry" />
         </mxCell>
         <mxCell id="YW04VRMcvg2D5mVoAVmP-1648" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(d_1\)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="639" y="80" as="geometry" />
+          <mxGeometry height="30" width="60" x="639" y="107.5" as="geometry" />
         </mxCell>
         <mxCell id="YW04VRMcvg2D5mVoAVmP-1649" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#99CCFF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" value="" vertex="1">
           <mxGeometry height="140" width="95" x="550" y="65" as="geometry" />
@@ -398,7 +398,7 @@
           <mxGeometry height="20" width="20" x="185" y="267.5" as="geometry" />
         </mxCell>
         <mxCell id="iApMA3zrJWOojqwo_bAu-384" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(d_2\)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="88" y="290" as="geometry" />
+          <mxGeometry height="30" width="60" x="88" y="292.5" as="geometry" />
         </mxCell>
         <mxCell id="iApMA3zrJWOojqwo_bAu-385" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -633,9 +633,6 @@
         </mxCell>
         <mxCell id="iApMA3zrJWOojqwo_bAu-454" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;1" vertex="1">
           <mxGeometry height="30" width="60" x="230" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="iApMA3zrJWOojqwo_bAu-455" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="\(W \times \lambda\)" vertex="1">
-          <mxGeometry height="25" width="50" x="145" y="455" as="geometry" />
         </mxCell>
         <mxCell id="iApMA3zrJWOojqwo_bAu-459" parent="1" style="line;strokeWidth=2;direction=south;html=1;" value="" vertex="1">
           <mxGeometry height="112.5" width="10" x="195" y="462.5" as="geometry" />
